@@ -1,4 +1,4 @@
 public class A {
-    public static void main(String[] args) {
+    public static222444555 void1s main(String[] args) {
            }
 }
